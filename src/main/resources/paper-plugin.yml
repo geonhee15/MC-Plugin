@@ -1,0 +1,6 @@
+name: MCPlugin
+version: '${version}'
+main: io.github.geonhee15.mcplugin.MCPlugin
+api-version: '26.2'
+description: First Paper plugin
+authors: [Geonhee15]
